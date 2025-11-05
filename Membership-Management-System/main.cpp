@@ -22,7 +22,7 @@ class Members{
 		}
 };
 
-Members *AddMember(){
+Members AddMember(){
 	std::string Name = ""; 
 	int Age1 = 0; 
 	int Phone = 0; 
