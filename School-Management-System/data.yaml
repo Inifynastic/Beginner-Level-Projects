@@ -1,0 +1,25 @@
+---
+:type: student
+:name: Jack
+:age: 22
+:course: JackeyChan
+---
+:type: student
+:name: Jackey Chan
+:age: 22
+:course: Karate
+---
+:type: teacher
+:name: Jhonny diddy
+:age: 69
+:subject: The HUB
+---
+:type: student
+:name: Linux is the besty
+:age: 999
+:course: OS Development
+---
+:type: student
+:name: '234'
+:age: 234
+:course: '555'
